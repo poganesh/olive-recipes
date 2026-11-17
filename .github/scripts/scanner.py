@@ -29,6 +29,7 @@ _valid_eps = set([
     "NvTensorRTRTXExecutionProvider",
     "JsExecutionProvider",
     "QNNExecutionProvider",
+    "RyzenAIExecutionProvider",
     "VitisAIExecutionProvider",
     "WebGpuExecutionProvider",
 ])
